@@ -1,0 +1,8 @@
+essid: ardrone2_111621
+channel: 1
+bssid: A0:14:3D:A7:22:35
+client: EA:38:6C:18:E0:BA
+essid: ardrone2_120023
+channel: 6
+bssid: A0:14:3D:A9:01:C4
+client: 36:A4:E3:D1:A8:12

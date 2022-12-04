@@ -1,0 +1,35 @@
+When you first start for the day always do a pull in the drone directory
+	
+	git pull
+
+When you want to push changes you've made, add them, commit them, and push them
+
+	git pull		(always pull before you push)
+
+	git add .		(to add all changes made in the directory)
+		OR
+	git add File_Name	(to add changes made on a particular file
+				if you're not ready to push other changes made yet)
+
+	
+	git commit -m "Write comment here"
+	
+	git push
+
+
+
+Other cool commands to know
+	
+	git diff		(to show all the changes between the files on
+				your system and the files pushed to github so far.
+				Shows nothing if there are no chagnes)
+
+	git diff FileName	(show changes between github and your system for
+				a specific file if changes have been made)
+	
+	git reset		(removes all files from the staging area and will
+				have to be readded)
+
+	git status		(shows if modified files have been staged <green>
+				or not staged yet <red>)
+	git log			(shows a log of all the pushes we have made)
